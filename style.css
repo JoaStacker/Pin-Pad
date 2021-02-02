@@ -24,7 +24,7 @@ body{
     background-color: rgb(226, 224, 224);
     border: 2px solid rgb(126, 126, 126);
     border-radius: 10%;
-    width: 190px;
+    width: 240px;
     height: auto;
     display: flex;
     flex-direction: column;
